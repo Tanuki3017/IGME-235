@@ -1,0 +1,60 @@
+*{
+    background-color:  #5BC0BE;
+    color: #3A506B;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+#selfportriait{
+    width: 10%;
+    height: 10%;
+    float: left;
+    padding-right: 3%;
+}
+
+h1{
+    color: #0B132B;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2{
+    color: #1C2541;
+    font-weight: bold;
+}
+
+.clear{
+    clear: both;
+}
+
+a:link{
+    color: #3A506B;
+}
+
+a:visited{
+    color: white;
+}
+
+a:hover{
+    color: black;
+}
+
+a:active{
+    color: blue;
+}
+
+
+
+#container{
+    display: flex;
+    align-self: stretch;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.box3{
+    flex-basis: 75%;
+}
+
+.box2{
+    margin-right: auto;
+}

@@ -1,0 +1,15 @@
+h1 {
+    color: crimson;
+    font-family: sans-serif;
+    border-bottom: 1px solid blue;
+}
+
+h2{
+    color: darkgoldenrod;
+}
+
+blockquote {
+    background-color: lightgray;
+    color: black;
+    padding: 1rem;
+}
